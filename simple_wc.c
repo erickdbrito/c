@@ -1,4 +1,18 @@
-/* Simple word count exercise */
+/*
+ * Exercise: Simple word count
+ * 
+ * Description:
+ * Use a loop for get stream of chars when != EOF
+ * 
+ * Usage:
+ * 1. Compile: gcc -o simple_wc simple_wc.c
+ * 2. Use with: ./simple_wc < input.txt
+ * 
+ * Output:
+ * lines: 1
+ * spaces:  2
+ * words:  12
+ */
 
 #include <stdio.h>
 
